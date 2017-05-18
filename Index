@@ -1,0 +1,7 @@
+@{
+    ViewBag.Title = "Lista";
+}
+
+<h2>Lista</h2>
+
+<p>It's me mario</p>
