@@ -1,0 +1,22 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Data.Entity;
+
+namespace Estagia.Models
+{
+    public class Estagiarios
+    {
+        public int ID { get; set; }
+        public string Nome { get; set; }
+        public DateTime DiaInicio { get; set; }
+        public string ProjetoAtual { get; set; }
+        public decimal HorasServico { get; set; }
+    }
+
+    public class EstagiaDBContext : DbContext
+    {
+        public DbSet<Estagiarios> Estagias { get; set; }
+    }
+}
