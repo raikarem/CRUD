@@ -10,3 +10,9 @@ https://docs.microsoft.com/en-us/aspnet/web-api/overview/advanced/calling-a-web-
 https://docs.microsoft.com/en-us/aspnet/whitepapers/aspnet-data-access-content-map
 https://forums.asp.net/1246.aspx
 
+BRW RU:
+https://stackoverflow.com/questions/33153932/filter-search-using-multiple-fields-asp-net-mvc
+
+https://stackoverflow.com/questions/18978249/asp-net-mvc-4-searching-from-existing-database
+
+https://stackoverflow.com/questions/17727386/dropdownlist-in-mvc-4-with-razor
