@@ -16,3 +16,7 @@ https://stackoverflow.com/questions/33153932/filter-search-using-multiple-fields
 https://stackoverflow.com/questions/18978249/asp-net-mvc-4-searching-from-existing-database
 
 https://stackoverflow.com/questions/17727386/dropdownlist-in-mvc-4-with-razor
+
+https://stackoverflow.com/questions/27847859/asp-net-mvc-4-search-form
+
+https://pt.stackoverflow.com/questions/17284/qual-a-diferen%C3%A7a-entre-ienumerable-iqueryable-e-list
